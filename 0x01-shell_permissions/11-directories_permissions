@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x *\
+mkdir my_dir -m=751
